@@ -5,7 +5,7 @@ This repository contains the datasets used to evaluate the **MultiTrustChain** f
 ## 📦 Release
 
 **First release (MultiTrustChain Datasets v1.0 – Financial, IoT, and Supply Chain Use Cases):**  
-https://github.com/RashmiRatnayake/MultiTrustChain-Datasets/releases/tag/v1.0
+https://github.com/RashmiRatnayake/MultiTrustChain_Datasets/releases/tag/v1.0
 
 The datasets are organised by application domain, with three primary use cases:
 
